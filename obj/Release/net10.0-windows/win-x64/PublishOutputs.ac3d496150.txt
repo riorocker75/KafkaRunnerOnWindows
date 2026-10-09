@@ -1,0 +1,3 @@
+d:\StudioCodeRepos\kafkaBuilder\publish\slim\kafkaRunnerWindows.pdb
+d:\StudioCodeRepos\kafkaBuilder\publish\slim\app.ico
+d:\StudioCodeRepos\kafkaBuilder\publish\slim\kafkaRunnerWindows.exe

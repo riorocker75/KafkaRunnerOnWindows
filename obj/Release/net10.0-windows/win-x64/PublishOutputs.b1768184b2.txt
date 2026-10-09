@@ -1,0 +1,2 @@
+d:\StudioCodeRepos\kafkaBuilder\publish\kafkaRunnerWindows.pdb
+d:\StudioCodeRepos\kafkaBuilder\publish\kafkaRunnerWindows.exe
